@@ -4,15 +4,18 @@ using namespace std;
 
 int main()
 {
-    /*
-    Dairenin Alanını ve Çevresini Hesaplama
-    1-Başla
-    2-gerekli variable'ları tanımla (PI ve r)
-    3-kullanıcıdan r variable'ı için değer girmesini iste ve bu değeri tara
-    4-dairenin alan ve çevresini hesapla (Dairenin alanı= PI*r*r)(Dairenin çevresi= 2*PI*r)
-    5-çıktı olarak sonucu kullanıcıya ver
-    6-bitir
-    */
+   /*
+    Calculating the Area and Circumference of a Circle
+    1-Start
+    2-Define the necessary variables (PI and r)
+    3-Ask the user to enter a value for the variable r and read this value
+    4-Calculate the area and circumference of the circle 
+      (Area of the circle = PI * r * r) 
+      (Circumference of the circle = 2 * PI * r)
+    5-Display the result to the user as output
+    6-End
+   */
+
 
     const double PI = 3.14159265359;
     float radius;

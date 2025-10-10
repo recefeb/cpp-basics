@@ -10,7 +10,6 @@ Goal: *to track my progress and see how far I’ve come over time.*
 
 - `01-hello-world/` → Print "Hello World" to the console
 - `02-circle-area-perimeter/` → Calculate the area and perimeter of a circle
-- `03-sum-of-two-numbers/` → Get two numbers from the user and print their sum
 
 
 ---
