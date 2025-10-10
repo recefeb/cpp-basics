@@ -1,4 +1,4 @@
-# numstate
+# Numstate
 
 This is a simple C++ program that determines whether a number entered by the user is positive, negative, or zero.  
 It's typically one of the first programs beginners write when learning C++.
