@@ -10,6 +10,7 @@ Goal: *to track my progress and see how far I’ve come over time.*
 
 - `01-hello-world/` → Print "Hello World" to the console
 - `02-circle-area-perimeter/` → Calculate the area and perimeter of a circle
+
 -`03-numstate/` → Determine whether a number is positive, negative, or zero  
 -`04-exampasschk/` → Check if a student passed or failed based on their score  
 -`05-evenoddchk/` → Check if a number is even or odd  
