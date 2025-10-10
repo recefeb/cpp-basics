@@ -1,4 +1,4 @@
-# exampasschk
+# Exam Pass Check in C++
 
 This is a simple C++ program that checks whether a student has passed the course based on their score.  
 It's typically one of the first programs beginners write when learning C++ conditionals.
