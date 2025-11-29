@@ -18,6 +18,16 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `08-basiccalculator/` → Perform basic arithmetic operations (+, -, *, /)  
 - `09-lettertypechecker/` → Determine whether a character is a vowel or consonant  
 - `10-MonthDaysChecker/` → Display the number of days in a month based on its number
+- `11-perfectsquarechk/` → Check if a number is a perfect square  
+- `12-timestablegen/` → Generate a multiplication table for a given number  
+- `13-primecheck/` → Determine if a number is prime  
+- `14-primeprinter/` → Print all prime numbers up to a given limit  
+- `15-factorialcalculator/` → Calculate the factorial of a number  
+- `16-smallestLargestFinder/` → Find the smallest and largest numbers in a set  
+- `17-gcd_lcm_finder/` → Calculate the GCD and LCM of two numbers  
+- `18-fiboGen/` → Generate the Fibonacci sequence up to a specified position  
+- `19-perfect_number_checker/` → Check if a number is a perfect number  
+- `20-perfect_number_scanner/` → Print all perfect numbers up to a given limit
 
 
 ---
