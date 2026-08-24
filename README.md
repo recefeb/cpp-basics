@@ -27,9 +27,9 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `17-gcd_lcm_finder/` → Calculate the GCD and LCM of two numbers  
 - `18-fiboGen/` → Generate the Fibonacci sequence up to a specified position  
 - `19-perfect_number_checker/` → Check if a number is a perfect number  
-- `20-perfect_number_scanner/` → Print all perfect numbers up to a given limit
-
-
+- `20-perfect_number_scanner/` → Print all perfect numbers up to a given limit  
+- `21-pascal_triangle_gen/` → Generate and display Pascal's Triangle  
+- `22-unit_converter/` → Convert values across Temperature, Length, and Weight units  
 ---
 
 ## 🛠 Tools & Technologies
