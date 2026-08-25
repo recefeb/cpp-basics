@@ -30,6 +30,7 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `20-perfect_number_scanner/` → Print all perfect numbers up to a given limit  
 - `21-pascal_triangle_gen/` → Generate and display Pascal's Triangle  
 - `22-unit_converter/` → Convert values across Temperature, Length, and Weight units  
+- `23-number_swapper/` → Demonstrate Call by Value vs Reference and multi-value returns  
 ---
 
 ## 🛠 Tools & Technologies
