@@ -32,6 +32,7 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `22-unit_converter/` → Convert values across Temperature, Length, and Weight units  
 - `23-number_swapper/` → Demonstrate Call by Value vs Reference and multi-value returns  
 - `24-array_stats_calc/` → Perform statistical analysis on arrays using modular functions  
+- `25-pointer_manipulator/` → Explore pointer basics, pointer arithmetic, and in-place reversal  
 ---
 
 ## 🛠 Tools & Technologies
