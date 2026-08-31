@@ -34,6 +34,7 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `24-array_stats_calc/` → Perform statistical analysis on arrays using modular functions  
 - `25-pointer_manipulator/` → Explore pointer basics, pointer arithmetic, and in-place reversal  
 - `26-dynamic_array_allocator/` → Manage dynamic memory on the Heap with auto-resizing  
+- `27-student_grade_tracker/` → Record and analyze student data using structs and arrays  
 ---
 
 ## 🛠 Tools & Technologies
