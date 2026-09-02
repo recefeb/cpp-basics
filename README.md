@@ -36,6 +36,7 @@ Goal: *to track my progress and see how far I’ve come over time.*
 - `26-dynamic_array_allocator/` → Manage dynamic memory on the Heap with auto-resizing  
 - `27-student_grade_tracker/` → Record and analyze student data using structs and arrays  
 - `28-palindrome_chk/` → Check if a string is a palindrome using two-pointer technique  
+- `29-atm_sim/` → Simulate an ATM account system using OOP classes and encapsulation  
 ---
 
 ## 🛠 Tools & Technologies
